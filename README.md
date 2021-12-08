@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Benjamin from Ghana. I'm a Software developer and a Tech Blogger. You can check out my Twitter at and LinkedIn at 
+I'm Benjamin from Ghana. I'm a Software developer and a Tech Blogger. 
+<!-- You can check out my Twitter at and LinkedIn at  -->
 
 [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminsemah)](https://github.com/anuraghazra/github-readme-stats)
 
