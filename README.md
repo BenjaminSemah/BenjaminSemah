@@ -15,9 +15,9 @@
 <h2 align="justify">My Recent Projects 💻</h2>
 <br />
 <!-- CHANGE THE ABOVE TO MY FAVOURITE PROJECTS WHEN I BUILD MORE PROJECTS -->
-<a href="https://benjaminsemah.github.io/AlumniMeetup/" target="_blank">
+<!-- <a href="https://benjaminsemah.github.io/AlumniMeetup/" target="_blank"> -->
   <img width="400" src="https://github.com/BenjaminSemah/AlumniMeetup/blob/main/images/meetupWebsite.png" />
-</a>
+<!--</a>-->
 <a href="https://github.com/BenjaminSemah/AlumniMeetup">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=AlumniMeetup&theme=tokyonight" />
 </a>
