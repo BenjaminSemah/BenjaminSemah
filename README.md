@@ -1,6 +1,6 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Benjamin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <p align="center">
+  <h1 align="justify"><b>Hi there, I'm Benjamin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <p align="justify">
   <!---<a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/PORTFOLIO-dcfaf9?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;-->
   <a target="_blank"href="https://www.linkedin.com/in/benjaminsemah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://twitter.com/BenjaminSemah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
@@ -10,22 +10,25 @@
 </p>
 
 
-[<p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Front+End+Developer+and+Tech+Blogger;Currently+learning+JavaScript+and+React;Passionate+about+Web+Accessibility)](https://git.io/typing-svg)
-</p>
+[<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Front+End+Developer+and+Tech+Blogger;Currently+learning+JavaScript+and+React;Passionate+about+Web+Accessibility)](https://git.io/typing-svg)
 
-
-  
-<p align="center">I'm a frontend engineer and tech blogger. 
+<h2 align="justify">My Recent Projects 💻</h2>
 <br />
+<!-- CHANGE THE ABOVE TO MY FAVOURITE PROJECTS WHEN I BUILD MORE PROJECTS -->
+<img width="400" src="https://github.com/BenjaminSemah/AlumniMeetup/blob/main/images/meetupWebsite.png" />
+<a href="https://github.com/BenjaminSemah/AlumniMeetup">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=AlumniMeetup&theme=tokyonight" />
+</a>
+
   
-<!--   I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a> and creating content on <a href="https://twitter.com/BenjaminSemah">Twitter.</a> When I'm not coding, you will find me reading or running.</p> -->
+<!-- <p>I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a> and creating content on <a href="https://twitter.com/BenjaminSemah">Twitter.</a> I am passionate about Web accessibility When I'm not coding, you will find me reading or running...</p> -->
 
 <!-- You can check out my Twitter at and LinkedIn at  -->
   
-<h1 align="center"> &#x1f4c8; GitHub Stats</h1>
+<h1 align="justify"> &#x1f4c8; GitHub Stats</h1>
 <br>
 
-<a href="https://github.com/BenjaminSemah/BenjaminSemah">
+<a align="justify" href="https://github.com/BenjaminSemah/BenjaminSemah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=benjaminsemah&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
