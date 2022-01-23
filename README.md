@@ -22,8 +22,9 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=AlumniMeetup&theme=tokyonight" />
 </a>
 
-  
-<!-- <p>I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a> and creating content on <a href="https://twitter.com/BenjaminSemah">Twitter.</a> I am passionate about Web accessibility When I'm not coding, you will find me reading or running...</p> -->
+<h2 align="justify">About Me 💻</h2>
+<br />
+<p>I'm passionate about making the Web accessible to people from all backgrounds. I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a> and creating content on <a href="https://twitter.com/BenjaminSemah">Twitter.</a> When I'm not coding, you will find me reading or running.
 
 <!-- You can check out my Twitter at and LinkedIn at  -->
   
