@@ -30,14 +30,38 @@
   </a>
 </p>
 
-<!-- ////////// About Me ////////// -->  
+<!-- ////////// ABOUT ME ////////// -->  
 <h2 align="justify">About Me 😃</h2>
 <p>Timezone: Africa/Ghana (UTC+00)</p>
 <p>I'm passionate about making the Web accessible to people from all backgrounds. I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a> and creating content on <a href="https://twitter.com/BenjaminSemah">Twitter.</a> When I'm not coding or creating content, you will likely find me reading 🤓 📖 or running 🏃‍♂️ .
 
 <br>
 <br>
-  
+    
+<!-- ////////// LANGUAGES AND TOOLS ////////// -->  
+<h2>Languages and Tools</h2>
+</p>
+<br />
+<p>
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="50" height="50"/>
+  </a>
+  <img alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="GitHub" width="50px" src="https://github.com/YuriDevAT/YuriDevAT/blob/main/github_.png" />
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
+</p>
+<br />
+
+    
 <h2 align="justify">Github Stats 📈 </h2>
 <br>
 
