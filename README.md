@@ -15,20 +15,30 @@
 <h2 align="justify">My Recent Projects 💻</h2>
 <br />
 <!-- CHANGE THE ABOVE TO MY FAVOURITE PROJECTS WHEN I BUILD MORE PROJECTS -->
-<!-- <a href="https://benjaminsemah.github.io/AlumniMeetup/" target="_blank"> -->
-  <img width="400" src="https://github.com/BenjaminSemah/AlumniMeetup/blob/main/images/meetupWebsite.png" />
-<!--</a>-->
-<a href="https://github.com/BenjaminSemah/AlumniMeetup">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=AlumniMeetup&theme=tokyonight" />
-</a>
+    
+<p>
+<!-- ////////// FIRST 2 PROJECTS THUMBNAILS ////////// -->
+  <img width="400" height="210" src="https://github.com/BenjaminSemah/AlumniMeetup/blob/main/images/meetupWebsite.png" />
+  <img width="400" height="210" src="https://github.com/BenjaminSemah/ToDo-ListApp/blob/main/todoThumbnail.png" /> 
+    
+<!-- ////////// FIRST 2 PROJECTS STAT ////////// -->       
+  <a href="https://github.com/BenjaminSemah/AlumniMeetup">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=AlumniMeetup&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/BenjaminSemah/ToDo-ListApp">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=ToDo-ListApp&theme=tokyonight" />
+  </a>
+</p>
 
-<h2 align="justify">About Me 💻</h2>
-<br />
-<p>I'm passionate about making the Web accessible to people from all backgrounds. I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a> and creating content on <a href="https://twitter.com/BenjaminSemah">Twitter.</a> When I'm not coding, you will find me reading or running.
+<!-- ////////// About Me ////////// -->  
+<h2 align="justify">About Me 😃</h2>
+<p>Timezone: Africa/Ghana (UTC+00)</p>
+<p>I'm passionate about making the Web accessible to people from all backgrounds. I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a> and creating content on <a href="https://twitter.com/BenjaminSemah">Twitter.</a> When I'm not coding or creating content, you will likely find me reading 🤓 📖 or running 🏃‍♂️ .
 
-<!-- You can check out my Twitter at and LinkedIn at  -->
+<br>
+<br>
   
-<h1 align="justify"> &#x1f4c8; GitHub Stats</h1>
+<h2 align="justify">Github Stats 📈 </h2>
 <br>
 
 <a align="justify" href="https://github.com/BenjaminSemah/BenjaminSemah">
