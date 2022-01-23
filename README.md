@@ -10,7 +10,7 @@
 </p>
 
 
-[<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Front+End+Developer+and+Tech+Blogger;Currently+learning+JavaScript+and+React;Passionate+about+Web+Accessibility)](https://git.io/typing-svg)
+[<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Front+End+Developer+and+Tech+Blogger;Passionate+about+Web+Accessibility;Currently+learning+JavaScript+and+React)](https://git.io/typing-svg)
 
 <h2 align="justify">My Recent Projects 💻</h2>
 <br />
