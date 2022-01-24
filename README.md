@@ -1,7 +1,8 @@
+<!-- ///////// NAME AND BADGES ///////// -->
 <p>
   <h1 align="justify"><b>Hi, I'm Benjamin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  <p align="justify">
-  <!---<a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/PORTFOLIO-dcfaf9?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;-->
+   <p align="justify">
+<!---<a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/PORTFOLIO-dcfaf9?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;-->
   <a target="_blank"href="https://www.linkedin.com/in/benjaminsemah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://twitter.com/BenjaminSemah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
   <a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/MY BLOG-1812DB?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;
@@ -9,9 +10,11 @@
   </p>
 </p>
 
-
+<!-- ///////// ANIMATED BIO TEXT ///////// -->
 [<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Front+End+Developer+and+Tech+Blogger;Passionate+about+Web+Accessibility;Currently+learning+JavaScript+and+React)](https://git.io/typing-svg)
-
+</p>
+    
+<!-- ///////// PROJECTS SECTION ///////// -->
 <h2 align="justify">My Recent Projects 💻</h2>
 <br />
 <!-- CHANGE THE ABOVE TO MY FAVOURITE PROJECTS WHEN I BUILD MORE PROJECTS -->
@@ -61,12 +64,16 @@
 </p>
 <br />
 
+<!-- ////////// LANGUAGES AND TOOLS ////////// -->  
     
 <h2 align="justify">Github Stats 📈 </h2>
 <br>
 
 <a align="justify" href="https://github.com/BenjaminSemah/BenjaminSemah">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=benjaminsemah&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com//BenjaminSemah/BenjaminSemah">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjaminSemah&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 
