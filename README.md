@@ -77,11 +77,20 @@
 </a>
 
 
-
+    
 <!--[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminsemah)](https://github.com/anuraghazra/github-readme-stats)-->
+    
+<br>
+<br>
+<h2 align="justify">Latest Blog Posts 📝 </h2>
+    
+<!-- BLOG-POST-LIST:START -->
 
+- [What I Learned From My First 100 Days of Code](https://benjaminsemah.hashnode.dev/what-i-learned-from-my-first-100-days-of-code)
+- [Understanding How CSS Selectors Work](https://benjaminsemah.hashnode.dev/understanding-how-css-selectors-work-part-one)
 
-
+... [READ MORE](https://benjaminsemah.hashnode.dev/)
+    
 <!--
 **BenjaminSemah/BenjaminSemah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
