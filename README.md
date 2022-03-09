@@ -93,6 +93,7 @@
     
 <!-- BLOG-POST-LIST:START -->
 
+- [How To Remember What You Learn From Coding Tutorials](https://benjaminsemah.hashnode.dev/how-to-remember-what-you-learn-from-coding-tutorials)
 - [What I Learned From My First 100 Days of Code](https://benjaminsemah.hashnode.dev/what-i-learned-from-my-first-100-days-of-code)
 - [Understanding How CSS Selectors Work](https://benjaminsemah.hashnode.dev/understanding-how-css-selectors-work-part-one)
 
