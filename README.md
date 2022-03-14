@@ -5,31 +5,37 @@
 <!---<a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/PORTFOLIO-dcfaf9?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;-->
   <a target="_blank"href="https://www.linkedin.com/in/benjaminsemah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://twitter.com/BenjaminSemah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-  <a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/MY BLOG-1812DB?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/benjaminsemah"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>&nbsp;
+  <a href="https://benjaminsemah.hashnode.dev/"><img src="https://img.shields.io/badge/MY BLOG-1812DB?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;
+<!--   <a href="https://www.hackerrank.com/benjaminsemah"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>&nbsp; -->
   </p>
 </p>
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
-[<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Front+End+Developer+and+Tech+Blogger;Passionate+about+Web+Accessibility;Currently+learning+JavaScript+and+React)](https://git.io/typing-svg)
+[<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Front+End+Developer+and+Tech+Blogger;Passionate+about+Web+Accessibility;Currently+building+projects+with+React)](https://git.io/typing-svg)
 </p>
     
 <!-- ///////// PROJECTS SECTION ///////// -->
-<h2 align="justify">My Recent Projects 💻</h2>
+<h2 align="justify">My Favorite Projects 💻</h2>
 <br />
 <!-- CHANGE THE ABOVE TO MY FAVOURITE PROJECTS WHEN I BUILD MORE PROJECTS -->
     
 <p>
-<!-- ////////// FIRST 2 PROJECTS THUMBNAILS ////////// -->
-  <img width="400" height="210" src="https://github.com/BenjaminSemah/AlumniMeetup/blob/main/images/meetupWebsite.png" />
-  <img width="400" height="210" src="https://github.com/BenjaminSemah/ToDo-ListApp/blob/main/todoThumbnail.png" /> 
-    
-<!-- ////////// FIRST 2 PROJECTS STAT ////////// -->       
-  <a href="https://github.com/BenjaminSemah/AlumniMeetup">
-    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=AlumniMeetup&theme=tokyonight" />
+<!-- ////////// PROJECTS THUMBNAILS/STATS ////////// -->
+  <img width="400" height="210" src="https://github.com/BenjaminSemah/task-tracker/blob/main/appTHUMBNAIL-taskTracker.png" />
+  <img width="400" height="210" src="https://github.com/BenjaminSemah/math-magicians/blob/main/appTHUMBNAIL-mathMagicians.png" />        
+  <a href="git@github.com:BenjaminSemah/task-tracker.git">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=task-tracker&theme=tokyonight" />
   </a>
-  <a href="https://github.com/BenjaminSemah/ToDo-ListApp">
-    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=ToDo-ListApp&theme=tokyonight" />
+  <a href="git@github.com:BenjaminSemah/math-magicians.git">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=math-magicians&theme=tokyonight" />
+  </a>
+  <img width="400" height="210" src="https://github.com/BenjaminSemah/cinimax-movies/blob/main/appTHUMBNAIL-cinimaxMovies.png" />
+  <img width="400" height="210" src="https://github.com/BenjaminSemah/pretty-weather/blob/dev/appTHUMBNAIL-prettyWeather.png" />    
+  <a href="git@github.com:BenjaminSemah/cinimax-movies.git">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=cinimax-movies&theme=tokyonight" />
+  </a>
+  <a href="git@github.com:BenjaminSemah/pretty-weather.git">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=pretty-weather&theme=tokyonight" />
   </a>
 </p>
 
