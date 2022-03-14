@@ -23,18 +23,18 @@
 <!-- ////////// PROJECTS THUMBNAILS/STATS ////////// -->
   <img width="400" height="210" src="https://github.com/BenjaminSemah/task-tracker/blob/main/appTHUMBNAIL-taskTracker.png" />
   <img width="400" height="210" src="https://github.com/BenjaminSemah/math-magicians/blob/main/appTHUMBNAIL-mathMagicians.png" />        
-  <a href="git@github.com:BenjaminSemah/task-tracker.git">
+  <a href="https://github.com/BenjaminSemah/task-tracker">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=task-tracker&theme=tokyonight" />
   </a>
-  <a href="git@github.com:BenjaminSemah/math-magicians.git">
+  <a href="https://github.com/BenjaminSemah/math-magicians">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=math-magicians&theme=tokyonight" />
   </a>
   <img width="400" height="210" src="https://github.com/BenjaminSemah/cinimax-movies/blob/main/appTHUMBNAIL-cinimaxMovies.png" />
   <img width="400" height="210" src="https://github.com/BenjaminSemah/pretty-weather/blob/dev/appTHUMBNAIL-prettyWeather.png" />    
-  <a href="git@github.com:BenjaminSemah/cinimax-movies.git">
+  <a href="https://github.com/BenjaminSemah/cinimax-movies">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=cinimax-movies&theme=tokyonight" />
   </a>
-  <a href="git@github.com:BenjaminSemah/pretty-weather.git">
+  <a href="https://github.com/BenjaminSemah/pretty-weather">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=pretty-weather&theme=tokyonight" />
   </a>
 </p>
@@ -42,7 +42,7 @@
 <!-- ////////// ABOUT ME ////////// -->  
 <h2 align="justify">About Me 😃</h2>
 <p>Timezone: Africa/Ghana (UTC+00)</p>
-<p>I'm passionate about making the Web accessible to people from all backgrounds. I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a> and creating content on <a href="https://twitter.com/BenjaminSemah">Twitter.</a> When I'm not coding or creating content, you will likely find me reading 🤓 📖 or running 🏃‍♂️ .
+<p>I'm passionate about making the Web accessible to people from all backgrounds. I love learning and sharing my knowledge with others. I do that through writing <a href="https://hashnode.com/@benjaminSemah">articles on my Blog</a>. When I'm not behind the screens, you will likely find me reading 📖 or running a 5K distance 🏃‍♂️ .
 
 <br>
 <br>
