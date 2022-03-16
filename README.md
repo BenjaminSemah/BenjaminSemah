@@ -21,21 +21,22 @@
     
 <p>
 <!-- ////////// PROJECTS THUMBNAILS/STATS ////////// -->
+  <img width="400" height="210" src="https://github.com/BenjaminSemah/the-metrics-hub/blob/main/appTHUMBNAIL-theMetricsHub.png" />
   <img width="400" height="210" src="https://github.com/BenjaminSemah/task-tracker/blob/main/appTHUMBNAIL-taskTracker.png" />
-  <img width="400" height="210" src="https://github.com/BenjaminSemah/math-magicians/blob/main/appTHUMBNAIL-mathMagicians.png" />        
+  <a href="https://github.com/BenjaminSemah/the-metrics-hub">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=the-metrics-hub&theme=tokyonight" />
+  </a>          
   <a href="https://github.com/BenjaminSemah/task-tracker">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=task-tracker&theme=tokyonight" />
   </a>
-  <a href="https://github.com/BenjaminSemah/math-magicians">
-    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=math-magicians&theme=tokyonight" />
-  </a>
+
   <img width="400" height="210" src="https://github.com/BenjaminSemah/cinimax-movies/blob/main/appTHUMBNAIL-cinimaxMovies.png" />
-  <img width="400" height="210" src="https://github.com/BenjaminSemah/pretty-weather/blob/dev/appTHUMBNAIL-prettyWeather.png" />    
+  <img width="400" height="210" src="https://github.com/BenjaminSemah/math-magicians/blob/main/appTHUMBNAIL-mathMagicians.png" />   
   <a href="https://github.com/BenjaminSemah/cinimax-movies">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=cinimax-movies&theme=tokyonight" />
   </a>
-  <a href="https://github.com/BenjaminSemah/pretty-weather">
-    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=pretty-weather&theme=tokyonight" />
+  <a href="https://github.com/BenjaminSemah/math-magicians">
+    <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=math-magicians&theme=tokyonight" />
   </a>
 </p>
 
