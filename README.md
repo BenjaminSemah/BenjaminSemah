@@ -4,20 +4,20 @@
    <p align="justify">
 <!---<a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/PORTFOLIO-dcfaf9?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;-->
   <a target="_blank"href="https://www.linkedin.com/in/benjaminsemah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://twitter.com/BenjaminSemah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="https://twitter.com/BenjaminSemah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />   </a>&nbsp;
+  <a href="https://www.freecodecamp.org/news/author/benjamin-semah/"><img src="https://img.shields.io/badge/-freeCodeCamp-00471b?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp" /></a>&nbsp;
   <a href="https://benjaminsemah.hashnode.dev/"><img src="https://img.shields.io/badge/MY BLOG-1812DB?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;
-<!--   <a href="https://www.hackerrank.com/benjaminsemah"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>&nbsp; -->
   </p>
 </p>
 
 <!-- ///////// ANIMATED BIO TEXT ///////// -->
-[<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Front+End+Developer+and+Tech+Blogger;Passionate+about+Web+Accessibility;Currently+building+projects+with+React)](https://git.io/typing-svg)
+[<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Full+Stack+Software+Developer;Freelance+Technical+Writer;Passionate+about+Web+Accessibility)](https://git.io/typing-svg)
 </p>
-    
+ 
+
 <!-- ///////// PROJECTS SECTION ///////// -->
 <h2 align="justify">My Favorite Projects 💻</h2>
 <br />
-<!-- CHANGE THE ABOVE TO MY FAVOURITE PROJECTS WHEN I BUILD MORE PROJECTS -->
     
 <p>
 <!-- ////////// PROJECTS THUMBNAILS/STATS ////////// -->
