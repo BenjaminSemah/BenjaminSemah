@@ -3,10 +3,10 @@
   <h1 align="justify"><b>Hi, I'm Benjamin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
    <p align="justify">
 <!---<a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/PORTFOLIO-dcfaf9?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;-->
+  <a href="https://benjaminsemah.netlify.app/"><img src="https://img.shields.io/badge/MY PORTFOLIO-EFEFEF?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/benjaminsemah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="https://twitter.com/BenjaminSemah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />   </a>&nbsp;
   <a href="https://www.freecodecamp.org/news/author/benjamin-semah/"><img src="https://img.shields.io/badge/-freeCodeCamp-00471b?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp" /></a>&nbsp;
-  <a href="https://benjaminsemah.hashnode.dev/"><img src="https://img.shields.io/badge/MY BLOG-1812DB?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;
   </p>
 </p>
 
