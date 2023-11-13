@@ -117,10 +117,10 @@
     
 <!-- BLOG-POST-LIST:START -->
     
+- [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/)
 - [[SERIES] JavaScript Walkthrough And Solutions To Coding Challenges](https://benjaminsemah.hashnode.dev/series/js-challenges)
 - [How To Remember What You Learn From Coding Tutorials](https://benjaminsemah.hashnode.dev/how-to-remember-what-you-learn-from-coding-tutorials)
 - [What I Learned From My First 100 Days of Code](https://benjaminsemah.hashnode.dev/what-i-learned-from-my-first-100-days-of-code)
-- [Understanding How CSS Selectors Work](https://benjaminsemah.hashnode.dev/understanding-how-css-selectors-work-part-one)
 
 ... [READ MORE](https://benjaminsemah.hashnode.dev/)
     
