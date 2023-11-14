@@ -122,7 +122,7 @@
 - [How To Remember What You Learn From Coding Tutorials](https://benjaminsemah.hashnode.dev/how-to-remember-what-you-learn-from-coding-tutorials)
 - [What I Learned From My First 100 Days of Code](https://benjaminsemah.hashnode.dev/what-i-learned-from-my-first-100-days-of-code)
 
-... [READ MORE](https://benjaminsemah.hashnode.dev/)
+... [READ MORE](https://www.clippings.me/benjaminsemah)
     
 <!--
 **BenjaminSemah/BenjaminSemah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
