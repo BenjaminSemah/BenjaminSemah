@@ -93,17 +93,6 @@
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   </a> -->
 
-  <!--     /////////// BACKEND TO BE ADDED LATER ///////////// -->
-<!--   <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> 
-  </a>
-  <a href="https://rubyonrails.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  </a> -->
-
 <br>
 <br>
 <!-- ////////// LANGUAGES AND TOOLS ////////// -->  
