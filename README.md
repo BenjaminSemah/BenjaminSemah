@@ -122,5 +122,7 @@
 - [What I Learned From My First 100 Days of Code](https://benjaminsemah.hashnode.dev/what-i-learned-from-my-first-100-days-of-code)
 
 ... [READ MORE](https://www.clippings.me/benjaminsemah)
-    
+
+<!--[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminsemah)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminsemah)](https://github.com/anuraghazra/github-readme-stats)-->
 
