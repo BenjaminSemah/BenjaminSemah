@@ -113,7 +113,7 @@
     
 <br>
 <br>
-<h2 align="justify">Latest Blog Posts 📝 </h2>
+<h2 align="justify">Recent Blog Posts 📝 </h2>
     
 <!-- BLOG-POST-LIST:START -->
     
