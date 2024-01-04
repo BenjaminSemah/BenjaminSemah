@@ -16,7 +16,7 @@
  
 
 <!-- ///////// PROJECTS SECTION ///////// -->
-<h2 align="justify">My Favorite Projects 💻</h2>
+<h2 align="justify">Projects 💻</h2>
 <br />
     
 <p>
