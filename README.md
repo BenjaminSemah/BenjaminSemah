@@ -10,17 +10,17 @@
   </p>
 </p>
 
-<!-- ///////// ANIMATED BIO TEXT ///////// -->
+<!-- ANIMATED BIO TEXT -->
 [<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Developer;Freelance+Technical+Writer;Passionate+about+Web+Accessibility)](https://git.io/typing-svg)
 </p>
  
 
-<!-- ///////// PROJECTS SECTION ///////// -->
+<!-- PROJECTS SECTION -->
 <h2 align="justify">Projects 💻</h2>
 <br />
     
 <p>
-<!-- ////////// PROJECTS THUMBNAILS/STATS ////////// -->
+<!-- PROJECTS THUMBNAILS/STATS -->
   <img width="400" height="210" src="https://github.com/BenjaminSemah/the-metrics-hub/blob/main/appTHUMBNAIL-theMetricsHub.png" />
   <img width="400" height="210" src="https://github.com/BenjaminSemah/task-tracker/blob/main/appTHUMBNAIL-taskTracker.png" />
   <a href="https://github.com/BenjaminSemah/the-metrics-hub">
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<!-- ////////// ABOUT ME ////////// -->  
+<!-- ABOUT ME -->  
 <h2 align="justify">About Me 😃</h2>
 <p>Timezone: Africa/Ghana (UTC+00)</p>
 <p>I'm passionate about making the Web accessible to people from all backgrounds. I love learning and sharing my knowledge with others. I do that through writing <a href="https://www.clippings.me/benjaminsemah">articles on my Blog</a>. When I'm not behind the screens, you will likely find me reading 📖 or running a 5K distance 🏃‍♂️ .
@@ -48,7 +48,7 @@
 <br>
 <br>
     
-<!-- ////////// LANGUAGES AND TOOLS ////////// -->  
+<!-- LANGUAGES AND TOOLS -->  
 <h2>Languages and Tools</h2>
 </p>
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -95,7 +95,7 @@
 
 <br>
 <br>
-<!-- ////////// LANGUAGES AND TOOLS ////////// -->  
+<!-- LANGUAGES AND TOOLS -->  
     
 <h2 align="justify">Github Stats 📈 </h2>
 <br>
