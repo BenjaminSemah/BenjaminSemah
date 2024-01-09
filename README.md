@@ -118,7 +118,7 @@
 <!-- BLOG-POST-LIST:START -->
     
 - [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/)
-- [How To Remember What You Learn From Coding Tutorials](https://benjaminsemah.hashnode.dev/how-to-remember-what-you-learn-from-coding-tutorials)
+- [How to Use Template Literals in JavaScript](https://www.freecodecamp.org/news/template-literals-in-javascript/)
 - [What I Learned From My First 100 Days of Code](https://benjaminsemah.hashnode.dev/what-i-learned-from-my-first-100-days-of-code)
 
 ... [READ MORE](https://www.clippings.me/benjaminsemah)
