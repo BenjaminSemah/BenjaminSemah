@@ -117,8 +117,8 @@
     
 <!-- BLOG-POST-LIST:START -->
     
-- [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/)
 - [The JavaScript DOM Manipulation Handbook](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/)
+- [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/)
 - [How to Use Template Literals in JavaScript](https://www.freecodecamp.org/news/template-literals-in-javascript/)
 
 ... [READ MORE](https://www.clippings.me/benjaminsemah)
