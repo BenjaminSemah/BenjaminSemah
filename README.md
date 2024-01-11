@@ -119,7 +119,7 @@
     
 - [The JavaScript DOM Manipulation Handbook](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/)
 - [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/)
-- [Writing for the Scrimba Blog](https://scrimba.com/articles/author/benjamin/)
+- [Articles for the Scrimba Blog](https://scrimba.com/articles/author/benjamin/)
 
 ... [READ MORE](https://www.clippings.me/benjaminsemah)
 <!-- BLOG-POST-LIST:END -->
