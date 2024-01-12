@@ -120,6 +120,7 @@
 - [The JavaScript DOM Manipulation Handbook](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/)
 - [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/)
 - [Technical Articles for the freeCodeCamp Publication](https://www.freecodecamp.org/news/author/benjamin-semah/)
+- [Technical Articles for the Open Replay Blog](https://blog.openreplay.com/authors/benjamin-semah/)
 - [Articles for the Scrimba Blog](https://scrimba.com/articles/author/benjamin/)
 
 ... [READ MORE](https://www.clippings.me/benjaminsemah)
