@@ -113,7 +113,7 @@
     
 <br>
 <br>
-<h2 align="justify">Technical Writing Portfolio 📝 </h2>
+<h2 align="justify">Technical Writing Portfolio </h2>
     
 <!-- BLOG-POST-LIST:START -->
     
