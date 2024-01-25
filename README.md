@@ -81,7 +81,7 @@
   <a href="https://github.com/ELanza-48" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    
+     
 <!--     /////////// BACKEND TO BE ADDED LATER ///////////// -->
 <!--   <a href="https://www.ruby-lang.org/fr/" target="_blank"> 
     <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> 
@@ -97,7 +97,7 @@
 <br>
 <!-- LANGUAGES AND TOOLS -->  
     
-<h2 align="justify">Github Stats 📈 </h2>
+<h2 align="justify"> Github Stats 📈 </h2>
 <br>
 
 <a align="justify" href="https://github.com/BenjaminSemah/BenjaminSemah">
