@@ -127,6 +127,6 @@
 ... [READ MORE](https://www.clippings.me/benjaminsemah)
 <!-- BLOG-POST-LIST:END -->
 
-<!--[![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminsemah)](https://github.com/anuraghazra/github-readme-stats)-->
+<!-- [![Benjamin's GitHub stats](https://github-readme-stats.vercel.app/api?username=benjaminsemah)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
