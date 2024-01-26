@@ -95,9 +95,9 @@
 
 <br>
 <br>
-<!-- LANGUAGES AND TOOLS -->  
+<!-- LANGUAGES AND TOOLS --> 
     
-<h2 align="justify"> Github Stats 📈 </h2>
+<h2 align="justify"> Github Stats 📈 </h2>  
 <br>
 
 <a align="justify" href="https://github.com/BenjaminSemah/BenjaminSemah">
@@ -113,7 +113,7 @@
     
 <br>
 <br>
-<h2 align="justify">Technical Writing Portfolio 📝</h2>
+<h2 align="justify"> Technical Writing Portfolio 📝 </h2>
     
 <!-- BLOG-POST-LIST:START -->
     
