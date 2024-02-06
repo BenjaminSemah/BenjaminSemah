@@ -1,7 +1,7 @@
 <!-- ////// NAME AND BADGES ////// --> 
 <p> 
   <h1 align="justify"><b>Hi, I'm Benjamin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>    
-   <p align="justify">        
+   <p align="justify">
 <!---<a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/PORTFOLIO-dcfaf9?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;-->
   <a href="https://benjaminsemah.netlify.app/"><img src="https://img.shields.io/badge/MY PORTFOLIO-EFEFEF?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;
   <a target="_blank"href="https://www.linkedin.com/in/benjaminsemah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
