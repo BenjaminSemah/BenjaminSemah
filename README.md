@@ -41,7 +41,7 @@
 </p>         
 
 <!-- ABOUT ME -->  
-<h2 align="justify">About Me 😃</h2>
+<h2 align="justify">About Me 😃</h2>                 
 <!-- <p>Timezone: Africa/Ghana (UTC+00)</p> -->
 <p>I'm passionate about making the Web accessible to people from all backgrounds. I love learning and sharing my knowledge with others. I do that through writing <a href="https://www.clippings.me/benjaminsemah">articles on my Blog</a>. When I'm not behind the screens, you will likely find me reading 📖 or running a 5K distance 🏃‍♂️ .
 
