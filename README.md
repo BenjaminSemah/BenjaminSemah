@@ -38,7 +38,7 @@
   <a href="https://github.com/BenjaminSemah/math-magicians">
     <img width="400" height="210" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminSemah&repo=math-magicians&theme=tokyonight" />
   </a>
-</p>
+</p>         
 
 <!-- ABOUT ME -->  
 <h2 align="justify">About Me 😃</h2>
