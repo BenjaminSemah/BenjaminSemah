@@ -8,7 +8,7 @@
   <a href="https://twitter.com/BenjaminSemah"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />   </a>&nbsp;
   <a href="https://www.freecodecamp.org/news/author/benjamin-semah/"><img src="https://img.shields.io/badge/-freeCodeCamp-00471b?style=for-the-badge&logo=freeCodeCamp&logoColor=white" alt="freeCodeCamp" /></a>&nbsp; 
   </p>
-</p>
+</p>                            
  
 <!-- ANIMATED BIO TEXT -->
 [<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Developer;Freelance+Technical+Writer;Passionate+about+Web+Accessibility)](https://git.io/typing-svg)
