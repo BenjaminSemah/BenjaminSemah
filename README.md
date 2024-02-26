@@ -15,7 +15,6 @@
 [<p align="justify">![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Developer;Freelance+Technical+Writer;Passionate+about+Web+Accessibility)](https://git.io/typing-svg)
 </p>
 
-
 <!-- PROJECTS SECTION -->
 <h2 align="justify">Projects 💻</h2>
 <br />
