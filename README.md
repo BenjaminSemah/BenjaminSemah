@@ -1,5 +1,5 @@
 <!-- ////// NAME AND BADGES ////// -->
-<p>                                   
+<p>                       
   <h1 align="justify"><b>Hi, I'm Benjamin<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>        
    <p align="justify">
 <!---<a href="https://hashnode.com/@benjaminSemah"><img src="https://img.shields.io/badge/PORTFOLIO-dcfaf9?style=for-the-badge&logoColor="white" alt="Hashnode" /></a>&nbsp;-->
